@@ -1,3 +1,3 @@
-# Music_Playar_Project
+# Music_Player_Project
 This is Django end to end Project
 
